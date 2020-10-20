@@ -1,10 +1,7 @@
 {
   "ignore": [
     "README.md",
-    ".gitignore",
-    "box-img-lg.png",
-    "box-img-sm.png",    
-    "images/"
+    ".gitignore"
   ],
   "commands": {
     "Compile contracts": "truffle compile",
